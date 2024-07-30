@@ -1,4 +1,3 @@
-'use strict';
 const form = document.querySelector('form');
 const inputEl = form.elements.email;
 const textareaMessage = form.elements.message;
